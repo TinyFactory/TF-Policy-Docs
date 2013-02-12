@@ -1,8 +1,15 @@
-permalink::year/:month/:day/:title.html
+# Development
+url: http://localhost:4000
 
-title:Tiny Factory Policy Docs
-author:Tiny Factory, LLC
-email:hello@tinyfactory.co
+# Production
+#url: http://tinyfactory.github.com/TF-Policy-Docs/
+
+permalink: :date
+
+domain: http://tinyfactory.github.com
+title: Tiny Factory Policy Docs
+author: Tiny Factory
+email: hello@tinyfactory.co
 
 #google_analytics:
 #  account: UA-20145334-1
