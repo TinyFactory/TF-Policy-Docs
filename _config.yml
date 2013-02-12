@@ -1,8 +1,8 @@
 # Development
-url: http://localhost:4000
+#url: http://localhost:4000
 
 # Production
-#url: http://tinyfactory.github.com/TF-Policy-Docs/
+url: http://tinyfactory.github.com/TF-Policy-Docs
 
 permalink: :date
 
