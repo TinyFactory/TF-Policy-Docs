@@ -2,7 +2,6 @@
 layout: default
 title: Privacy Policy
 ---
-
 #Privacy Policy
 
 ###What information do we collect?
