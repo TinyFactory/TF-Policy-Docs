@@ -5,7 +5,7 @@
 # url: http://docs.tinyfactory.co
 
 
-permalink: /:year/:month/:day/:title.html
+permalink: :year/:month/:day/:title.html
 #exclude: ['Rakefile', 'README.md', 'config.rb']
 #pygments: true
 
