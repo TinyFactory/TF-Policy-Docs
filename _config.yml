@@ -1,0 +1,23 @@
+# Development
+# url: http://localhost:4000
+
+# Production
+# url: http://docs.tinyfactory.co
+
+
+permalink: /:year/:month/:day/:title.html
+#exclude: ['Rakefile', 'README.md', 'config.rb']
+#pygments: true
+
+# configuration required for some pages
+
+# domain: http://tinyfactory.github.com
+title: Tiny Factory Policy Docs
+author: Tiny Factory, LLC
+email: hello@tinyfactory.co
+
+#google_analytics:
+#  account: UA-20145334-1
+
+prose:
+  rooturl: "_posts"
